@@ -1,0 +1,13 @@
+# E-Mail Detective
+
+A mini project developed to detect spam emails using machine learning techniques. The system classifies emails as spam or non-spam based on email content and patterns.
+
+## Technologies Used
+- Python
+- Machine Learning
+- HTML/CSS
+
+## Features
+- Spam email detection
+- User-friendly interface
+- Fast and simple prediction system
